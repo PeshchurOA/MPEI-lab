@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="405" viewBox="0 0 660 405">
+<rect width="660" height="405" fill="white"/>
+<g font-family="Times New Roman, serif" font-size="17" fill="#111">
+<path d="M80 13 H119" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="99" cy="13" r="3.5" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<text x="128.000" y="18.000" text-anchor="start" fill="#111" font-size="16">QF2: измеренные значения</text>
+<path d="M117.474 77 V335" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M117.474 335 v3" stroke="#222" stroke-width="0.7"/>
+<path d="M302.250 77 V335" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M302.250 335 v3" stroke="#222" stroke-width="0.7"/>
+<path d="M453.224 77 V335" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M453.224 335 v3" stroke="#222" stroke-width="0.7"/>
+<path d="M580.870 77 V335" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M580.870 335 v3" stroke="#222" stroke-width="0.7"/>
+<path d="M75 335.000 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 335.000 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 324.786 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 324.786 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 316.149 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 316.149 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 308.669 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 308.669 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 302.070 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 302.070 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 296.167 H638" stroke="#9d9d9d" stroke-width="0.9"/>
+<path d="M70 296.167 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 257.334 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 257.334 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 234.618 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 234.618 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 218.501 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 218.501 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 206.000 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 206.000 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 195.786 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 195.786 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 187.149 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 187.149 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 179.669 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 179.669 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 173.070 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 173.070 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 167.167 H638" stroke="#9d9d9d" stroke-width="0.9"/>
+<path d="M70 167.167 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 128.334 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 128.334 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 105.618 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 105.618 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 89.501 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 89.501 H75" stroke="#222" stroke-width="0.7"/>
+<path d="M75 77.000 H638" stroke="#e1e1e1" stroke-width="0.5"/>
+<path d="M72 77.000 H75" stroke="#222" stroke-width="0.7"/>
+<text x="117.474" y="358.000" text-anchor="middle" fill="#111" font-size="16">40</text>
+<text x="215.005" y="358.000" text-anchor="middle" fill="#111" font-size="16">45</text>
+<text x="302.250" y="358.000" text-anchor="middle" fill="#111" font-size="16">50</text>
+<text x="381.173" y="358.000" text-anchor="middle" fill="#111" font-size="16">55</text>
+<text x="453.224" y="358.000" text-anchor="middle" fill="#111" font-size="16">60</text>
+<text x="519.504" y="358.000" text-anchor="middle" fill="#111" font-size="16">65</text>
+<text x="580.870" y="358.000" text-anchor="middle" fill="#111" font-size="16">70</text>
+<text x="64.000" y="340.000" text-anchor="end" fill="#111" font-size="16">0,5</text>
+<text x="64.000" y="301.167" text-anchor="end" fill="#111" font-size="16">1</text>
+<text x="64.000" y="262.334" text-anchor="end" fill="#111" font-size="16">2</text>
+<text x="64.000" y="211.000" text-anchor="end" fill="#111" font-size="16">5</text>
+<text x="64.000" y="172.167" text-anchor="end" fill="#111" font-size="16">10</text>
+<text x="64.000" y="133.334" text-anchor="end" fill="#111" font-size="16">20</text>
+<text x="64.000" y="82.000" text-anchor="end" fill="#111" font-size="16">50</text>
+<path d="M75 77 V335 H638 V77 Z" fill="none" stroke="#222" stroke-width="1"/>
+<text x="356.000" y="391.000" text-anchor="middle" fill="#111" font-size="16">I, А (логарифмическая шкала)</text>
+<text x="18" y="206" text-anchor="middle" transform="rotate(-90 18 206)">t, с (логарифмическая шкала)</text>
+<polyline points="117.474,108.689 215.005,117.590 302.250,135.337 381.173,144.789 453.224,158.066 519.504,214.450 580.870,316.149" fill="none" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="117.474" cy="108.689" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="215.005" cy="117.590" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="302.250" cy="135.337" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="381.173" cy="144.789" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="453.224" cy="158.066" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="519.504" cy="214.450" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+<circle cx="580.870" cy="316.149" r="3.7" fill="white" stroke="#184a78" stroke-width="1.8"/>
+</g></svg>
